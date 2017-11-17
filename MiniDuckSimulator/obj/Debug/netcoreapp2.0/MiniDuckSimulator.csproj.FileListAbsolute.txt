@@ -1,0 +1,10 @@
+C:\dev\projects\HeadFirstDesignPatterns\MiniDuckSimulator\obj\Debug\netcoreapp2.0\MiniDuckSimulator.csproj.CoreCompileInputs.cache
+C:\dev\projects\HeadFirstDesignPatterns\MiniDuckSimulator\obj\Debug\netcoreapp2.0\MiniDuckSimulator.AssemblyInfoInputs.cache
+C:\dev\projects\HeadFirstDesignPatterns\MiniDuckSimulator\obj\Debug\netcoreapp2.0\MiniDuckSimulator.AssemblyInfo.cs
+C:\dev\projects\HeadFirstDesignPatterns\MiniDuckSimulator\bin\Debug\netcoreapp2.0\MiniDuckSimulator.deps.json
+C:\dev\projects\HeadFirstDesignPatterns\MiniDuckSimulator\bin\Debug\netcoreapp2.0\MiniDuckSimulator.runtimeconfig.json
+C:\dev\projects\HeadFirstDesignPatterns\MiniDuckSimulator\bin\Debug\netcoreapp2.0\MiniDuckSimulator.runtimeconfig.dev.json
+C:\dev\projects\HeadFirstDesignPatterns\MiniDuckSimulator\bin\Debug\netcoreapp2.0\MiniDuckSimulator.dll
+C:\dev\projects\HeadFirstDesignPatterns\MiniDuckSimulator\bin\Debug\netcoreapp2.0\MiniDuckSimulator.pdb
+C:\dev\projects\HeadFirstDesignPatterns\MiniDuckSimulator\obj\Debug\netcoreapp2.0\MiniDuckSimulator.dll
+C:\dev\projects\HeadFirstDesignPatterns\MiniDuckSimulator\obj\Debug\netcoreapp2.0\MiniDuckSimulator.pdb
