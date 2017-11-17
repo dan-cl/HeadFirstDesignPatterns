@@ -1,0 +1,10 @@
+C:\dev\projects\HeadFirstDesignPatterns\WeatherORama\obj\Debug\netcoreapp2.0\WeatherORama.csproj.CoreCompileInputs.cache
+C:\dev\projects\HeadFirstDesignPatterns\WeatherORama\obj\Debug\netcoreapp2.0\WeatherORama.AssemblyInfoInputs.cache
+C:\dev\projects\HeadFirstDesignPatterns\WeatherORama\obj\Debug\netcoreapp2.0\WeatherORama.AssemblyInfo.cs
+C:\dev\projects\HeadFirstDesignPatterns\WeatherORama\bin\Debug\netcoreapp2.0\WeatherORama.deps.json
+C:\dev\projects\HeadFirstDesignPatterns\WeatherORama\bin\Debug\netcoreapp2.0\WeatherORama.runtimeconfig.json
+C:\dev\projects\HeadFirstDesignPatterns\WeatherORama\bin\Debug\netcoreapp2.0\WeatherORama.runtimeconfig.dev.json
+C:\dev\projects\HeadFirstDesignPatterns\WeatherORama\bin\Debug\netcoreapp2.0\WeatherORama.dll
+C:\dev\projects\HeadFirstDesignPatterns\WeatherORama\bin\Debug\netcoreapp2.0\WeatherORama.pdb
+C:\dev\projects\HeadFirstDesignPatterns\WeatherORama\obj\Debug\netcoreapp2.0\WeatherORama.dll
+C:\dev\projects\HeadFirstDesignPatterns\WeatherORama\obj\Debug\netcoreapp2.0\WeatherORama.pdb
